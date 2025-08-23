@@ -43,7 +43,9 @@ body {
 }
 
 @keyframes secondtxt {
-
+    0%{
+        left: 0%;
+    }
     40%,
     60% {
         left: calc(100% + 4px);
