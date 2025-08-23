@@ -1,4 +1,5 @@
 let txt = document.querySelector('.second');
+
 let txtload = ()=>{
     setTimeout(() => {
        txt.innerHTML ="Frontend Developer" ;
@@ -15,4 +16,5 @@ let txtload = ()=>{
 }
 
 txtload();
+
 setInterval(txtload,20000);
