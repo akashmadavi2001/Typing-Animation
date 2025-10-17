@@ -6,7 +6,6 @@
 }
 
 body {
-    width: 100vw;
     height: 100vh;
     background-color: #1f1f1f;
     display: flex;
